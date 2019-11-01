@@ -14,6 +14,8 @@ With this application you will have the answer for this questions:
 
 You must have already installed Java, Scala, Apache Spark installed, if you dont, please [click here](https://intellipaat.com/blog/tutorial/spark-tutorial/downloading-spark-and-getting-started/) to check an guide on how to install this tools.
 
+The log files, must be placed at the `data/` folder.
+
 # Run application
 
 Run `mvn package` to generate a jar.
